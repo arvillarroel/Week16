@@ -1,4 +1,4 @@
-# Prod environment
+ML# Prod environment
 variables:
 
   # Global
@@ -18,5 +18,5 @@ variables:
   ado_service_connection_aml_ws: Azure-ARM-Prod
 
   # For pipeline reference
-  resource_group: Test_RG
-  aml_workspace: azureml
+  resource_group: AzureMLWS
+  aml_workspace: AzureML
