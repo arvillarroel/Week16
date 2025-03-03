@@ -18,5 +18,5 @@ variables:
   ado_service_connection_aml_ws: Azure-ARM-Prod
 
   # For pipeline reference
-  resource_group: AzureMLWS
-  aml_workspace: AzureML
+  resource_group: AzureML
+  aml_workspace: AzureMLWS
